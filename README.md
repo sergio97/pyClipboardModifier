@@ -9,7 +9,7 @@ a script to modify the values isn't worth it (because it's complex or because
 there's few values to adjust). With this script running you simply highlight 
 the value, hit Ctrl + C, the script sees the new value in the clipboard and 
 modifies it according to the code, you paste the new value. Anyone watching 
-you do this would probably be very confused. 
+you do this would be very confused. 
 
 
 
